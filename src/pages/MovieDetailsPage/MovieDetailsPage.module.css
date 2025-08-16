@@ -1,0 +1,18 @@
+.container {
+    padding: 10px;
+}
+
+.backLink {
+    display: inline-block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: blue;
+}
+
+.backLink:hover {
+    text-decoration: underline;
+}
+
+.error {
+    color: red;
+}
